@@ -1,5 +1,5 @@
 # instaghrab
-The worst try to make bring Instagram filters into React Native App.
+The worst try to bring Instagram filters into a React Native App.
 ---
 ![](https://i.imgur.com/ovwL9Bb.png)
 ![](https://i.imgur.com/9VnZTQQ.png)
